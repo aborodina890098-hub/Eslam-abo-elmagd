@@ -1,0 +1,7 @@
+{
+  "name": "CVEEEZ - Professional CV Optimization",
+  "description": "High-converting 3D landing page for CV optimization services targeted at Egyptian and international job seekers.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
